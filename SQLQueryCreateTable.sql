@@ -83,5 +83,5 @@ IngredientName varchar(255)
 );
 
 -- another comment 
--- a new comment added
--- a new test comment
+-- a new comment added haha
+-- a new test comment haha
