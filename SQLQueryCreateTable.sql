@@ -83,8 +83,4 @@ IngredientName varchar(255)
 );
 
 
--- this is a comment lol
--- this is a comment lmao
-
--- my first comment here lol
--- my second comment here lmao
+-- adrian wrote this
