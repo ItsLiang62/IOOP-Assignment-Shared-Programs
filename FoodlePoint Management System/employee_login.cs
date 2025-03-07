@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Shared_Class_Library;
 
 namespace FoodlePoint_Management_System__Manager_
 {
