@@ -8,5 +8,9 @@ namespace Shared_Class_Library
 {
     public class employee_table
     {
+        public employee_table()
+        {
+
+        }
     }
 }
