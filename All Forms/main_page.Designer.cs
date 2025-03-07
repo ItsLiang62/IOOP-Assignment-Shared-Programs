@@ -1,4 +1,4 @@
-﻿namespace FoodlePoint_Management_System__Manager_
+﻿namespace Foodle_Point_Management_System
 {
     partial class frmMain
     {

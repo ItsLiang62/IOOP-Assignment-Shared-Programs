@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using Shared_Class_Library;
 
-namespace FoodlePoint_Management_System__Manager_
+namespace Foodle_Point_Management_System
 {
     public partial class frmCustomerLogin: Form
     {

@@ -4,3 +4,9 @@ C:\Users\User\Documents\Current Semester\IOOP\Assignment\Application\Shared Clas
 C:\Users\User\Documents\Current Semester\IOOP\Assignment\Application\Shared Class Library\obj\Debug\Shared Class Library.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Current Semester\IOOP\Assignment\Application\Shared Class Library\obj\Debug\Shared Class Library.dll
 C:\Users\User\Documents\Current Semester\IOOP\Assignment\Application\Shared Class Library\obj\Debug\Shared Class Library.pdb
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\bin\Debug\Shared Class Library.dll
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\bin\Debug\Shared Class Library.pdb
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\obj\Debug\Shared Class Library.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\obj\Debug\Shared Class Library.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\obj\Debug\Shared Class Library.dll
+C:\Users\User\Documents\Current Semester\IOOP\Assignment\IOOP-Application\IOOP-Assignment-Shared-Resources\Shared Class Library\obj\Debug\Shared Class Library.pdb
